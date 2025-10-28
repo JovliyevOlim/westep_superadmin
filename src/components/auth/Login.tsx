@@ -37,7 +37,7 @@ export default function LoginForm() {
                     }}
                     className="bg-transparent"
                 >
-                    <p className="text-2xl font-semibold text-center mb-8">
+                    <p className="text-2xl text-gray-900 font-semibold text-center mb-8">
                         Superadmin
                     </p>
 
